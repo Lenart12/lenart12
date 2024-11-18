@@ -1,5 +1,10 @@
 # Hi, I'm [Lenart](https://github.com/Lenart12) 👋
 
+![GitHub followers](https://img.shields.io/github/followers/Lenart12?style=flat&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/Lenart12?style=flat&logo=github)
+![](https://komarev.com/ghpvc/?username=Lenart12&abbreviated=true)
+
+
 Welcome to my corner of the internet, where code meets chaos. This GitHub is a living proof of my experiments, side projects, and occasional bursts of productivity. 
 
 ## ✨ About Me
