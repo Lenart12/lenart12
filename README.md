@@ -25,6 +25,13 @@ Welcome to my corner of the internet, where code meets chaos. This GitHub is a l
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lenart12&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+## 🔗 Reach me
+
+[![lkokos@discord](https://img.shields.io/badge/Discord-lkokos-blue?logo=discord)](https://discord.com/users/228565017560219651)
+[![lenart@wgn.si](https://img.shields.io/badge/E--Mail-lenart%40wgn.si-blue?logo=mailboxdotorg)](mailto:lenart@wgn.si)
+[![wgn.si](https://img.shields.io/badge/%F0%9F%94%97Web-wgn.si-blue?link=wgn.si)](https://wgn.si)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-lkokos-blue?logo=linkedin)](https://www.linkedin.com/in/lkokos/)
+
 
 ---
 
